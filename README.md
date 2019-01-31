@@ -1,2 +1,2 @@
 # python101
-Courses for ACTGenomics . python club 
+Courses for python club 
