@@ -10,7 +10,7 @@
 - **bpython** : realtime coding demo
 - **github** : must know and ~~must learn to use~~ 
 - **codind tools** : depends on you
-  - <img src='./vsc.png' width='100',height='100'>[visual studio code](https://code.visualstudio.com/)
+  - [visual studio code](https://code.visualstudio.com/)
   - [pycharm](https://www.jetbrains.com/pycharm/)
   - [sublime text](https://www.sublimetext.com/)
   - [notepad++](https://notepad-plus-plus.org/zh/)
