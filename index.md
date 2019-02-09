@@ -60,7 +60,7 @@ print (file_name_from_split, file_path_from_split)
 
 
 
-:point_right:  using `os.path.getsize()`. to get the size of the file, `os.listdir()` to get the. Folder content
+:point_right:  using `os.path.getsize()`. to get the size of the file, `os.listdir()` to get the Folder content
 
 ```python
 import os
@@ -90,12 +90,13 @@ print (f'folder is existed : {answer_3}')
 
 
 
-:point_right:  using `open()` to open file for  reading and.  writing  
+:point_right:  using `open()` to open file for  reading and writing
 
 ```python  
+
 import os
 
-### for reading
+# for reading
 file_object = open('/home/cgh2/demo/demo.txt', 'r')
 
 print (file_object)
@@ -108,7 +109,7 @@ print (file_content_1)
 print (file_content_2)
 print (file_content_3)
 
-### for writing
+# for writing
 wf = open('/home/cgh2/demo/demo_write.txt', 'w')
 wf.write('this is my first time writing python\n not funny at all\n byebye')
 wf.close() # very import
