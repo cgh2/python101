@@ -95,22 +95,6 @@ print (f'folder is existed : {answer_3}')
 ```python  
 import os
 
-
 file_object = open('/home/cgh2/demo/demo.txt', 'r')
-
 print (file_object)
-
-file_content_1 = file_object.read()
-file_content_2 = file_object.readlines()
-file_content_3 = file_object.read().splitlines()
-
-print (file_content_1)
-print (file_content_2)
-print (file_content_3)
-
-
-wf = open('/home/cgh2/demo/demo_write.txt', 'w')
-wf.write('this is my first time writing python\n not funny at all\n byebye')
-wf.close()
 ```
-
