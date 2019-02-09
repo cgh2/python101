@@ -20,7 +20,7 @@
 
 #### reading and  writing files
 
-###### :point_right:using `os.getcwd()` to get curretn directory , `os.change_dir()` to change the directory you want, `os.mkdir() to make a new directory`
+:point_right:using `os.getcwd()` to get curretn directory , `os.change_dir()` to change the directory you want, `os.mkdir() to make a new directory`
 
 
 
@@ -38,7 +38,7 @@ print (f'new_dir:{new_dir}')
 
 
 
-:point_right:absolute path vs relative path : using `os.path.abspth('demo.txt')`. to get the path of the dmeo.txt, using `os.path.abspath('../demo')` to get the path of the upper folder
+:point_right:  absolute path vs relative path, using `os.path.abspth('demo.txt')`. to get the path of the dmeo.txt, using `os.path.abspath('../demo')` to get the path of the upper folder
 
 ```python
 import os
@@ -60,7 +60,7 @@ print (file_name_from_split, file_path_from_split)
 
 
 
-:point_right:using `os.path.getsize()`. to get the size of the file, `os.listdir()` to get the. Folder content
+:point_right:  using `os.path.getsize()`. to get the size of the file, `os.listdir()` to get the. Folder content
 
 ```python
 import os
@@ -74,7 +74,7 @@ print (folder_content)
 
 
 
-:point_right: checking path validity
+:point_right:   checking path validity
 
 ```python
 import os
@@ -90,7 +90,7 @@ print (f'folder is existed : {answer_3}')
 
 
 
-:point_right:using `open()` to open file for  reading and.  writing  
+:point_right:  using `open()` to open file for  reading and.  writing  
 
 ```python  
 import os
