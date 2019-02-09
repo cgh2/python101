@@ -1,4 +1,4 @@
-# Python 101
+![mycat](https://github.com/cgh2/python101/blob/master/mycat.jpg)
 
 ## chapter 1
 
