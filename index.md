@@ -111,6 +111,6 @@ print (file_content_3)
 
 wf = open('/home/cgh2/demo/demo_write.txt', 'w')
 wf.write('this is my first time writing python\n not funny at all\n byebye')
-wf.close() # very import
+wf.close()
 ```
 
