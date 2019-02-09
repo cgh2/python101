@@ -89,9 +89,6 @@ print (f'folder is existed : {answer_3}')
 ```
 
 
-
-:point_right:  using `open()` to open file for  reading and writing
-
 ```python  
 import os
 
