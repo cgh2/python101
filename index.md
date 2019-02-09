@@ -1,4 +1,4 @@
-![mycat](https://github.com/cgh2/python101/mycat.jpg)
+![mycat](./mycat.jpg)
 
 ## chapter 1
 
