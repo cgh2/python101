@@ -89,9 +89,15 @@ print (f'folder is existed : {answer_3}')
 ```
 
 
+
+:point_right:   reading and writing
+
 ```python  
 import os
 
 file_object = open('/home/cgh2/demo/demo.txt', 'r')
 print (file_object)
+
+file_content = file_object.read()
+print (file_content)
 ```
