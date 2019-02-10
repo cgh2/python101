@@ -100,4 +100,22 @@ print (file_object)
 
 file_content = file_object.read()
 print (file_content)
+
+file_object = open('/home/cgh2/demo/demo.txt', 'r')
+print (file_object)
+
+file_content = file_object.read()
+print (file_content)
+
+file_object = open('/home/cgh2/demo/demo.txt', 'r')
+print (file_object)
+
+file_content = file_object.read()
+print (file_content)
+
+file_object = open('/home/cgh2/demo/demo.txt', 'r')
+print (file_object)
+
+file_content = file_object.read()
+print (file_content)
 ```
