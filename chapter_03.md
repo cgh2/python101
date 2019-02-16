@@ -23,7 +23,7 @@ def add(a, b):
 add(3, 5)
 
 ```
-:point_right:f
+:point_right: return
 ```function with return
 def add(a, b):
     return (a+b)
@@ -54,7 +54,7 @@ add()
 print ("cat", "dog", "pig")
 
 print ("cat", "dog", "pig", sep=',')
-
+```
 
 #### local and global scope
 
