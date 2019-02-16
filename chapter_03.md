@@ -65,7 +65,7 @@ def spam():
 
 print eggs
 ```
-:poinrt_right: local scope cannot use variabales in other local scope
+:point_right: local scope cannot use variabales in other local scope
 ```
 def spam():
     eggs = 1234
