@@ -15,6 +15,7 @@
   - [sublime text](https://www.sublimetext.com/)
   - [notepad++](https://notepad-plus-plus.org/zh/)
   - VIM
+- **docker** : setting up python environment a breeze
 
 #### virtualenv
 
