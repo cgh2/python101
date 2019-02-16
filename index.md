@@ -15,7 +15,7 @@
   - [sublime text](https://www.sublimetext.com/)
   - [notepad++](https://notepad-plus-plus.org/zh/)
   - VIM
-- **[docker]**(https://cgh2.github.io/docker101/) : setting up python environment a breeze
+- [**docker**](https://cgh2.github.io/docker101/) : setting up python environment a breeze
 
 #### virtualenv
 
