@@ -6,7 +6,7 @@
 
 - **python2  or python 3**, which one?
 - **virtualenv** : what and why?
-- **python module** : must know and must learn to use
+- **python function & module** : must know and must learn to use
 - **bpython** : realtime coding demo
 - **github** : must know and ~~must learn to use~~ 
 - **coding tools** : depends on you
