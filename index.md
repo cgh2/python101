@@ -25,3 +25,12 @@
 #### bpython
 
 - bpython (interactive python env)
+
+
+[## hapter_01](https://github.com/cgh2/python101/blob/master/chapter_01.md)
+
+[## chapter_02](https://github.com/cgh2/python101/blob/master/chapter_02.md)
+
+[## chapter_03](https://github.com/cgh2/python101/blob/master/chapter_03.md)
+
+[## chapter_04](https://github.com/cgh2/python101/blob/master/chapter_04.md)
