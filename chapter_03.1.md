@@ -11,8 +11,7 @@
 [1,2 {'a':3, 'b':4}, 5]
 ```
 
-:point_right:list index
-<\n>
+:point_right:list index\
 ![list_index](./list_index.PNG)
 
 :point_right : sublist
