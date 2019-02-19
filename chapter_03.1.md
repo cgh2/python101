@@ -12,7 +12,7 @@
 ```
 
 :point_right:list index
-![list_index](./list_index.png)
+![list_index](./list_index.PNG)
 
 :point_right : sublist
 ```
@@ -27,7 +27,7 @@ my_list_a_to_c_also = my_list[0:-1]
 my_list = [1, 2, 3, 'word']
 len(my_list)
 ```
-:porint_right:sublist
+:point_right:sublist
 
 ```
 my_list = [1, 2, 3, 'word']
