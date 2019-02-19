@@ -14,7 +14,7 @@
 :point_right:list index\
 ![list_index](./list_index.PNG)
 
-:point_right : sublist
+:point_right: sublist
 ```
 my_list = ['a', 'b', 'c', 'd']
 my_list_a_to_c = my_list[0:3]
