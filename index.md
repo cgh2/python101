@@ -34,6 +34,7 @@
 
 ## chapter_03
 - [chapter_03](https://github.com/cgh2/python101/blob/master/chapter_03.md)
+- [chapter_03.1](https://github.com/cgh2/python101/blob/master/chapter_03.1.md)
 
 ## chapter_04
 - [chapter_04](https://github.com/cgh2/python101/blob/master/chapter_04.md)
