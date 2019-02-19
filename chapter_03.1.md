@@ -12,6 +12,7 @@
 ```
 
 :point_right:list index
+<\n>
 ![list_index](./list_index.PNG)
 
 :point_right : sublist
