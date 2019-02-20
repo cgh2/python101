@@ -10,6 +10,7 @@
 - **bpython** : realtime coding demo
 - **github** : must know and ~~must learn to use~~ 
 - **coding tools** : depends on you
+  - [jupyter notebook](https://jupyter.org/)
   - [visual studio code](https://code.visualstudio.com/)
   - [pycharm](https://www.jetbrains.com/pycharm/)
   - [sublime text](https://www.sublimetext.com/)
