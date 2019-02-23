@@ -1,6 +1,6 @@
 ![mycat](./mycat.jpg)
 
-## chapter 0
+## Before starting....
 
 #### some things you  should know before starting learn python
 
@@ -28,19 +28,19 @@
 - bpython (interactive python env)
 - [video demo](https://bpython-interpreter.org/videos/01.ogg)
 
-## chapter_01
-- [chaper_0.1](https://github.com/cgh2/python101/blob/master/chapter_0.1.md)
+## chapter_00
+- [chaper_00 : python basic](https://github.com/cgh2/python101/blob/master/chapter_00.md)
 
 ## chapter_01
-- [chaper_01](https://github.com/cgh2/python101/blob/master/chapter_01.md)
+- [chaper_01 : reading and writing file](https://github.com/cgh2/python101/blob/master/chapter_01.md)
 
 ## chapter_02
-- [chapter_02](https://github.com/cgh2/python101/blob/master/chapter_02.md)
+- [chapter_02 : copy file and folder](https://github.com/cgh2/python101/blob/master/chapter_02.md)
 
 ## chapter_03
-- [chapter_03](https://github.com/cgh2/python101/blob/master/chapter_03.md)
-- [chapter_03.1](https://github.com/cgh2/python101/blob/master/chapter_03.1.md)
-- [chapter_03.2](https://github.com/cgh2/python101/blob/master/chapter_03.2.md)
+- [chapter_03 : how to define(write) function](https://github.com/cgh2/python101/blob/master/chapter_03.md)
+- [chapter_03.1 : list](https://github.com/cgh2/python101/blob/master/chapter_03.1.md)
+- [chapter_03.2 : referencec](https://github.com/cgh2/python101/blob/master/chapter_03.2.md)
 
 ## chapter_04
-- [chapter_04](https://github.com/cgh2/python101/blob/master/chapter_04.md)
+- [chapter_04 : dealing with string](https://github.com/cgh2/python101/blob/master/chapter_04.md)
