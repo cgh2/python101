@@ -29,6 +29,9 @@
 - [video demo](https://bpython-interpreter.org/videos/01.ogg)
 
 ## chapter_01
+- [chaper_0.1](https://github.com/cgh2/python101/blob/master/chapter_0.1.md)
+
+## chapter_01
 - [chaper_01](https://github.com/cgh2/python101/blob/master/chapter_01.md)
 
 ## chapter_02
