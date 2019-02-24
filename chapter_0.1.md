@@ -17,7 +17,7 @@
 
 :point_right: string concatening, string replication
 ```
-'cgh2' + ' and python101'
+>>>'cgh2' + ' and python101'
 cgh2 and python101
 
 >'cgh2'*3
@@ -43,11 +43,10 @@ cgh2cgh2cgh2
 
 ```
 :point_right:variable name
-1. it can be only 1 word
-2.usually letters, numbers,and '_'
-3.it cannot begin with number  
+ - it can be only 1 word
+ - usually letters, numbers,and '_'
+ - it cannot begin with number  
 
-```
 ![variable_name](variable_name.png)
 
 :point_right: your first program
