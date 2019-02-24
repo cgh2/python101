@@ -1,3 +1,3 @@
 # python101
-![python101](python.jpeg)
+![python101](python.jpg)
 Courses for python club 
