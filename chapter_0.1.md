@@ -7,23 +7,20 @@
 2
 >>> 2 * 2
 4
-
+```
 :point_right: math operators
 
-```
 ![expression1](expression1.png)
-```
 
 :point_right: data type ==> integer, floating-point,string 
-```
 ![datatype](datatype.png)
-```
+
 :point_right: string concatening, string replication
 ```
->>>'cgh2' + ' and python101'
+'cgh2' + ' and python101'
 cgh2 and python101
 
->>>'cgh2'*3
+>'cgh2'*3
 cgh2cgh2cgh2
 
 >>>'cgh2' + 123
@@ -49,6 +46,8 @@ cgh2cgh2cgh2
 1. it can be only 1 word
 2.usually letters, numbers,and '_'
 3.it cannot begin with number  
+
+```
 ![variable_name](variable_name.png)
 
 :point_right: your first program
