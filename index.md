@@ -41,6 +41,7 @@
 - [chapter_03 : how to define(write) function](https://github.com/cgh2/python101/blob/master/chapter_03.md)
 - [chapter_03.1 : list](https://github.com/cgh2/python101/blob/master/chapter_03.1.md)
 - [chapter_03.2 : referencec](https://github.com/cgh2/python101/blob/master/chapter_03.2.md)
+- [chapter_03.3 : dictionary](https://github.com/cgh2/python101/blob/master/chapter_03.3.md)
 
 ## chapter_04
 - [chapter_04 : dealing with string](https://github.com/cgh2/python101/blob/master/chapter_04.md)
